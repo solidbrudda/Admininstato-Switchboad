@@ -1,6 +1,6 @@
 # Admininstato-Switchboad
 
-##### Administrator Switchboard
+Administrator Switchboard
 
 #### Administrator Switchboard is a free software aimed to help:
 
