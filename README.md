@@ -1,5 +1,8 @@
 # Admininstato-Switchboad
 
+
+![](https://i.imgur.com/ezAFZH6.png)
+
 Administrator Switchboard
 
 #### Administrator Switchboard is a free software aimed to help:
@@ -17,7 +20,3 @@ Administrator Switchboard
 - Run command
 - Windows Update
 - Windows Security Center
-
-
-
-![](https://i.imgur.com/ezAFZH6.png)
